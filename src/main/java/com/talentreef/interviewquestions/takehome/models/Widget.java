@@ -20,5 +20,7 @@ import javax.persistence.Table;
 public class Widget {
 
   private String name;
+  private String description;
+  private Double price;
 
 }

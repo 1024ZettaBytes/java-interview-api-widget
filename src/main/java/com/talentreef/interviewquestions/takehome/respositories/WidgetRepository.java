@@ -32,6 +32,8 @@ public class WidgetRepository {
   }
 
   public Widget save(Widget widget) {
+    // I would personally preffer to use a different method to update existing
+    // elements
     deleteById(widget.getName());
     table.add(widget);
     return widget;

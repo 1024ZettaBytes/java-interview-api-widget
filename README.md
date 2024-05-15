@@ -1,9 +1,7 @@
-# TalentReef Java API Interview Template
+# (Widget) Java API take-home
 
 ## Description
-
-This [Spring Boot](https://spring.io/projects/spring-boot) project is provided as a starting template for the TalentReef take-home interview. Feel free to make whatever modifications are necessary to complete the exercise.
-
+This is a [Spring Boot](https://spring.io/projects/spring-boot) based forked repository for the backend take-home interview challenge.
 ## Requirements
 
 Java 17 -- Java can be acquired using [SDKMAN!](https://sdkman.io/)
@@ -23,7 +21,3 @@ Execute tests using Gradle:
 ```shell
 ./gradlew test
 ```
-
-## Additional Information
-
-TalentReef will provide you the contact information of a person who can answer questions about the exercise.
